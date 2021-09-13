@@ -1,3 +1,5 @@
+
+
 .comment{
     color: gray;
     margin-bottom: 10px;
@@ -5,6 +7,23 @@
 .comment.top{
     margin-top: 0px;
 }
+.didascalia{
+    font-size: 11px;
+}
+.underlines{
+    background-color: yellow;
+}
+.elenco{
+    padding-left: 15px;
+}
+thead{
+    color: white;
+    background-color: rgb(64, 88, 224);
+}
+.azzurro{
+    background-color: turquoise;
+}
+
 .articolo1{
     background-image: url(../img/monitor.jpg);   
 }
@@ -32,7 +51,7 @@
     background-repeat: repeat-x;
 }
 .titolone{
-    font-size: 70px;
+    font-size: 50px;
     margin-top: 20px;
     margin-bottom: 0px;
 }
