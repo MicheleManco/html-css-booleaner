@@ -2,7 +2,9 @@
     color: gray;
     margin-bottom: 10px;
 }
-
+.comment.top{
+    margin-top: 0px;
+}
 .articolo1{
     background-image: url(../img/monitor.jpg);   
 }
@@ -17,4 +19,23 @@
     background-size: contain;
     background-repeat: no-repeat; 
     color: white;    
+}
+
+#logo{
+    width: 200px;
+    padding-top: 50px;
+}
+.sfondo{ 
+    background-color: rgb(12, 126, 179);
+    background-image: url(../img/pattern.png);
+    background-size:400px;
+    background-repeat: repeat-x;
+}
+.titolone{
+    font-size: 70px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+#nome{
+    color: turquoise;
 }
