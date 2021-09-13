@@ -1,45 +1,53 @@
-body{
+body {
     margin:0;
 }
-header{
+
+header {
     width: 80%;
     margin: 0;  
-    
-}
-.container{
-    width: 75%;
-    margin: 0 auto;
-    
 }
 
-.comment{
+.container {
+    width: 75%;
+    margin: 0 auto;   
+}
+
+.comment {
     color: gray;
     margin-bottom: 10px;
 }
-.comment.top{
+
+.comment.top { 
     margin-top: 0px;
 }
-.didascalia{
+
+.didascalia {
     font-size: 11px;
 }
-.underlines{
+
+.underlines {
     background-color: yellow;
 }
-.elenco{
+
+.elenco { 
     padding-left: 15px;
 }
-thead{
+
+thead {
     color: white;
     background-color: rgb(64, 88, 224);
 }
-.azzurro{
+
+.azzurro {
     background-color: turquoise;
 }
-table{
+
+table {
     text-align: left;
     border-collapse: collapse;
 }
-th{
+
+th {
     width: 300px;
 }
 
@@ -63,7 +71,7 @@ th{
 #logo{
     width: 200px;
     padding-top: 50px;
-    margin-left: 12%; 
+    
 }
 .sfondo{ 
     width: 100vw;
