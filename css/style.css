@@ -23,6 +23,14 @@ thead{
 .azzurro{
     background-color: turquoise;
 }
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+th{
+    width: 300px;
+}
+
 
 .articolo1{
     background-image: url(../img/monitor.jpg);   
